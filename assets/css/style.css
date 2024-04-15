@@ -1174,24 +1174,6 @@ Media Queries
 	}
 
 	/**
-   * CTA
-   */
-
-	.cta .container {
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
-	}
-
-	.cta-content {
-		width: calc(100% - 225px);
-	}
-
-	.cta .section-text {
-		margin-inline: 0;
-	}
-
-	/**
    * FOOTER
    */
 
@@ -1337,14 +1319,6 @@ Media Queries
 
 	.meta-box > ion-icon {
 		font-size: 15px;
-	}
-
-	/**
-   * CTA 
-   */
-
-	.cta .section-title {
-		max-width: 25ch;
 	}
 
 	/**
